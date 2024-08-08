@@ -9,7 +9,4 @@ Apart from these, you must follow all the instructions mentioned in the Figma de
 Your output should look exactly the same like the Figma designed pages
 
 
-Now, it’s time to check your UI skills (for the feature you can use your own thoughts and creativity.)
-Share notes
-Share group - all notes that belongs to group should be shown
-Search by group name/notes content
+
